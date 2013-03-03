@@ -36,7 +36,7 @@ setup(
     author_email='dan.bornside@gmail.com',
     description='a grab-bag of web app utilities for developer convenience',
     long_description=open('README.rst').read(),
-    url='mailto:dan.bornside@gmail.com',
+    url='https://github.com/danbornside/wsgilite',
     packages=PACKAGES,
     package_data=PACKAGE_DATA,
     entry_points={
